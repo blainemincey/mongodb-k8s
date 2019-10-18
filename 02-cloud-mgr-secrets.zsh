@@ -1,4 +1,4 @@
-#! /bin/zsh
+#! /usr/bin/env zsh
 
 # Apply the API Public and API Private keys
 echo -e "\n=== Creating access via Cloud Manager API Keys ==="

@@ -1,4 +1,4 @@
-#! /bin/zsh
+#! /usr/bin/env zsh
 
 HOST=<IP of Minikube>
 PORT=<Port of Replica Set>

@@ -1,4 +1,4 @@
-#! /bin/zsh
+#! /usr/bin/env zsh
 
 # Deploy the cloud manager ConfigMap
 echo -e "\n=== Deploying the Cloud Manager Standalone ConfigMap ==="

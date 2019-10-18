@@ -1,4 +1,4 @@
-#! /bin/zsh
+#! /usr/bin/env zsh
 
 # Create the namespace for the K8S deployment
 echo -e "\n=== Creating namespace $K8S_NAMESPACE ==="
