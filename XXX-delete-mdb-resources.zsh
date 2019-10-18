@@ -1,4 +1,4 @@
-#! /bin/zsh
+#! /usr/bin/env zsh
 #
 echo -e "=== You are deleting ALL MongoDB Resources and Services ===\n"
 # these three operations must be called first!
