@@ -1,0 +1,11 @@
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: cloud-mgr-configmap-replica-set
+  namespace: mongodb
+
+data:
+  projectName: K8S-replica-set
+  orgId: <YOUR CLOUD MGR ORG ID> 
+  baseUrl: https://cloud.mongodb.com
