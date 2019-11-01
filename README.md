@@ -10,7 +10,8 @@ minikube and kubectl CLI tools installed
 ### Notes on adding more RAM to the minikube config
 
 ### Step 1
-Configure API Access via Cloud Managerhttps://docs.cloudmanager.mongodb.com/tutorial/configure-public-api-access/
+Configure API Access via Cloud Manager
+https://docs.cloudmanager.mongodb.com/tutorial/configure-public-api-access/
 
 ### Step 2
 Open up the file example-environment-vars.env
